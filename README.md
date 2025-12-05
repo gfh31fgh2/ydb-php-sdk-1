@@ -215,7 +215,7 @@ $config = [
 
 $ydb = new Ydb($config);
 ```
-## JWT + JSON file
+## JWT + JSON file  
 
 Create [a service account](https://cloud.yandex.com/docs/iam/operations/sa/create) with the `editor` role.
 
